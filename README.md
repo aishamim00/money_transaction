@@ -1,5 +1,5 @@
 # money_transaction
-## Description: By this demo API project called money_trasaction we create agent,custome,merchant and did transaction between them ,chech their balance and trasaction history.
+## Description: By this demo API project called money_trasaction we create agent,custome,merchant and did transaction between them ,check their balance and trasaction history.
 
 ## Technology
 - Postman
